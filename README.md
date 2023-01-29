@@ -1,2 +1,3 @@
 # ArashAmani.github.io
-Arash Amani Personal Site. He writes in three lanaguages Kurdish, English and Farsi!
+Arash Amani's Personal Site. I write in three lanaguages Kurdish, English and Farsi!
+
