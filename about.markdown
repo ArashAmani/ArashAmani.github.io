@@ -1,18 +1,38 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
+I write in Kurdish, English and Farsi. So I would gragually update about me page.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# کوردی 
+ئەمن **ئارش ئەمانی** خەڵکی سنە و دانیشتووی تارانم. هۆگری **کورد و کوردستانم** و باوەڕم ئەوەیە تاکوو زمانی کوردی بە پێنج زاراوەکەیەوە نەبەینە نێو ژیانی ڕۆژانەمانەوە ئاواتی بەرزمان وەدی نایێت.
+خوێندی باڵام (Master) هەیە لە ژیری دەسکردم هەیە و لە بواری ئەندازیاری فێربوونی ماشین و کەڵە دراوەدا کار دەکەم.بە دووی ئەوەشم کە دوکتۆرا لە بواری Natural Langauge Proccessingدا وەربگرم و خزمەتی زمانی کوردی بکەم.\
+\
+لە بنەماڵەیێکی ٩ کەسیدا گەورە بووگم خواری و بەرزیم لە ژیاندا چەشتووە لە منداڵیەوە کارم کردووە لە یەخمەک فرۆشی (تەک خوشکما) و ماحەڵەبی فرۆشتنەوە تا ئالۆمینیۆم کاری.
+لە وەرزشی بۆکسدا لە پلەی قارەمانیم هەیە لە پارێزگای سنەدا بەڵام لە ناو ئێراندا نەمتوانی پلەیێک بەدەست بهێنم. پلەی دەرەجە دووی بۆکسی فدراسیۆنم هەیە لە کێبەرکێیەکاندا داوەریم کردگە.\
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# بە کوردی و بە پوختی:
+* [یەکەمی ئەندامی بزووتنەوەی حەفتا و دوو قەڵەم](https://t.me/Q72Qalam)
+* [ئەندامی ئاسۆ سافت](https://asosoft.github.io/members.html)
+* ئەندامی ناوەندی ئەنجومەنی مەولەوی کورد سنە
+* ئەندامی پێشووی شۆرای ناوەندی ئەنجومەنی مەولەوی کورد سنە
+* [ئەندامی چالاکانی ئایتی دانیشتووی تاران](https://www.linkedin.com/groups/12776392/)
+* داوەری دەرەجە دووی بۆکس
+* قارەمانی بۆکسی پارێزگای سنە
+* ڕاهێنەری ڕێنووسی کوردی
+* ڕاهێنەری خولگەلی فێربوونی ماشین بە پایتۆن
+* ڕاهێنەری پەرداوتنی زمانی سروشتی
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+# English
+I am Arash (*Arsh* in Kurish pronunciation) Amani. I am working as machine learning engineer and big data engineer.
+
+# فارسی
+من آرش امانی هستم. اهل سنندج و برای کار مقیم تهران هستم. به کورد و کوردستان عشق میورزم و بر این باورم تا زبان کوردی را در کار و بار روزانه و زندگی عادی مورد استفاده قرار ندهیم به هدف والای خود نخواهیم رسید.\
+ارشد هوش مصنوعی دارم و به عنوان یک مهندس یادگیری ماشین و مهندس کلان داده مشغول به کار هستم.
 
 
-[jekyll-organization]: https://github.com/jekyll
+
+
+
+
