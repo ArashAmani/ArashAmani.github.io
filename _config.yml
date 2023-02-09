@@ -21,14 +21,16 @@
 title: Arash Amani
 email: amani.ara [at] gmail . com
 description: >- # this means to ignore newlines until "baseurl:"
-  Arash Amani would write about both my exprience and job in Kurdish, English and Farsi!
+  I write in Kurdish, English and Farsi!
   A machine learning engineer that work on Hadoop ecosystem and write article in Natural Language Processing.
   I look for a full fund PhD position in NLP fields.
   
 baseurl: "" # the subpath of your site, e.g. /blog
 url: https://arashamani.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: ArashAmani64
 github_username:  ArashAmani
+twitter_username: ArashAmani64
+instagram_username: ArashAmani.64
+linkedin_username: arash-amani
 
 # Build settings
 theme: minima
