@@ -8,3 +8,4 @@ paperurl: 'https://civilica.com/doc/696641/'
 
 Improving Spell-Checking Mistakes In Kurdish Language By Changing Weights In Minimum Edit Distance [in Farsi]
 
+<p><a href='{{page.paperurl}}' target='_blank' >Paper Link</a></p>
