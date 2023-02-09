@@ -3,4 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-List of my publications goes here
+	
+{% for pub in site.publications %}
+  <h2><a href='{{pub.permalink}}'> {{ pub.title }}</a> </h2>
+{% endfor %}
