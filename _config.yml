@@ -32,6 +32,12 @@ twitter_username: ArashAmani64
 instagram_username: ArashAmani.64
 linkedin_username: arash-amani
 
+#Pages Order
+header_pages:
+ - publications.md
+ - cv.md
+ - about.markdown
+
 # Build settings
 theme: minima
 plugins:
