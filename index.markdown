@@ -5,3 +5,4 @@
 layout: home
 ---
 
+<h2>My site is under construction. Be patient! :)</h2>
