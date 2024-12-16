@@ -159,13 +159,11 @@ categories: kurdish tech
 
 
 ## تەموو
-دراوە و کۆدی نووسراوی ئەم شیکارییە دەتوانن لەم بەستەرەی خواروە ببینن و دایبگرن.
-[وەشانی وێب](https://github.com/ArashAmani/History-of-Kurdish-Literature-Using-Data-Science)
+پەرەپێدەران و بەرنامەنووسان دەتوانن دراوە و کۆدی ئەم شیکارییە لەم بەستەرەی خواروە ببینن و دایبگرن.
+[سەرچاوەی کۆد و دراوە](https://github.com/ArashAmani/History-of-Kurdish-Literature-Using-Data-Science)
 
-هاوکاتی ژیانی نووسەرانی کورد لە ناوەڕاستی سەدەی ١٦ەوە تاکوو سەدەی ٢٠ی زایینی
+هاوکاتی ژیانی نووسەرانی کورد لە ناوەڕاستی سەدەی ١٦ەوە لەدایک بووگن تاکوو سەدەی ٢٠ی زایینی لە وێنەی خوارەوەدا نیشان دراوە.
 ![وێنەی ١٣: نووسەرانی سەدەی ١٦ تا سەدەی ٢٠ی زایینی]({{site.baseurl}}/docs/assets/images/history-kurdish-data-science/fig14.png)
-
-
 
 
 
