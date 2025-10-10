@@ -5,4 +5,4 @@
 layout: home
 ---
 
-<h2>My site is under construction. Be patient! :)</h2>
+<h2>Welcome To Arash's Web Site</h2>

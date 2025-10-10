@@ -22,7 +22,7 @@ I write in Kurdish, English and Farsi. So I would gragually update about me page
 * قارەمانی بۆکسی پارێزگای سنە
 * ڕاهێنەری ڕێنووسی کوردی
 * ڕاهێنەری خولگەلی فێربوونی ماشین بە پایتۆن
-* ڕاهێنەری پەرداوتنی زمانی سروشتی
+* ڕاهێنەری پێواژۆکردنی زمانی سروشتی
 
 # English
 I am Arash (*Arsh* in Kurish pronunciation) Amani. I am working as machine learning engineer and big data engineer.
